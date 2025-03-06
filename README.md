@@ -1,6 +1,11 @@
 # LC-Cognition
 Sponsored by Cambridge Cognition
 <img src="https://github.com/fanhubgt/LC-Cognition/blob/e741feaa73f3bfdbe2193ef546fca3b3bfdd9953/Screenshot_20250306-140058_1.png"/>
+
+In building all the apps use Netbeans IDE 6/7 only. 
+Lib/jdesktop.jar
+Lib/jswing.jar, both in app zips.
+
 ##########################
                  Introduction to Letter Combinatorics
                                    by 
