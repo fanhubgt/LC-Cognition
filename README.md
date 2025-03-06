@@ -1,4 +1,4 @@
-# LC-Cognition
+# LC-Cognition Client&Server
 Sponsored by Cambridge Cognition
 ########################################
                  Introduction to Letter Combinatorics
