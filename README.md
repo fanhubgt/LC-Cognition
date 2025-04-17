@@ -6,8 +6,9 @@ Sponsored by Cambridge Cognition
                Dr. Frank Appiah
                 #####################################
 -----------------------------------------------------------------
+<img src="https://github.com/fanhubgt/LC-Cognition/blob/7047773f6fea23bc5ac5ed4238eeb43c818cb7b8/Screenshot%202025-04-17%20at%2003.43.49.png"/>
 
-To compile, unzip the LC1.zip, LC2.zup and LC3.zip files and copy each folder contents back into LCApplication folded also after the unzipped folder.
+To compile, unzip the LC1.zip, LC2.zip and LC3.zip files and copy each folder contents back into LCApplication folded also after the unzipped folder.
 
 LCx folders will be empty afterwards.
 
