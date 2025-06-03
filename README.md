@@ -1,5 +1,6 @@
 # LC-Cognition
 Sponsored by Cambridge Cognition
+King's College Cambridge 
 
 Papers
 <a href="https://archive.org/details/lcinterface-meta-modeldoc">Reports</a>
