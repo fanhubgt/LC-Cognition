@@ -2,7 +2,7 @@
 Sponsored by Cambridge Cognition
 
 Papers
-<a href="https://archive.org/details/lcinterface-meta-modeldoc>Reports</>
+<a href="https://archive.org/details/lcinterface-meta-modeldoc">Reports</a>
 
 <img src="https://github.com/fanhubgt/LC-Cognition/blob/e741feaa73f3bfdbe2193ef546fca3b3bfdd9953/Screenshot_20250306-140058_1.png"/>
 
